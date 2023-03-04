@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24e46c3d-0ed3-4f32-9e63-0fae1bb7b42d" name="Changes" comment="home work numbers" />
+    <list default="true" id="24e46c3d-0ed3-4f32-9e63-0fae1bb7b42d" name="Changes" comment="home work text">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_1/python_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_1/python_script.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677954864477</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="home work text">
+      <created>1677954901096</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677954901096</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,6 +227,7 @@
     <MESSAGE value="home work 1" />
     <MESSAGE value="HomeWork" />
     <MESSAGE value="home work numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="home work numbers" />
+    <MESSAGE value="home work text" />
+    <option name="LAST_COMMIT_MESSAGE" value="home work text" />
   </component>
 </project>
